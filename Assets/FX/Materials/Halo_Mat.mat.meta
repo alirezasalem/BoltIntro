@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/FX/Materials/Halo_Mat.mat.meta
 guid: 58ff1f49a0b5f4385b2e911bd13182c9
+=======
+guid: 87855925366f74a87b37f07229bb633f
+>>>>>>> parent of ee49cae... VS108 Graph Debugging Part 2:Assets/Macros/MouseLook.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
