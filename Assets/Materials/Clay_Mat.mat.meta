@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Materials/Clay_Mat.mat.meta
 guid: 85252a4f4fe3149a7b90e420bd0eb52c
+=======
+guid: 87855925366f74a87b37f07229bb633f
+>>>>>>> parent of ee49cae... VS108 Graph Debugging Part 2:Assets/Macros/MouseLook.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
